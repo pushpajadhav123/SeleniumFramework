@@ -1,6 +1,6 @@
 package Inhertance;
 
-class ConstructorDemo {
+class ConstructorDemoclass {
 	String name;
 	int age;
 	ConstructorDemo(String name,int age){
